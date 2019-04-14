@@ -1,1 +1,1 @@
-# Resource-store
+# resources-store
